@@ -1,0 +1,8 @@
+{
+  "name": "MikroTik Captive Portal",
+  "description": "Un portal cautivo para MikroTik que registra datos de usuarios (teléfono/correo) antes de dar acceso a la red y los guarda en un servidor o webhook (como Google Sheets).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
